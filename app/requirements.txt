@@ -1,0 +1,8 @@
+bcrypt
+Flask
+Flask-Migrate
+Flask-SQLAlchemy
+FlaskWTF
+openai
+psychopg2
+requests
